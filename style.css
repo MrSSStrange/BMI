@@ -1,0 +1,18 @@
+body {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #eef4ff 0%, #f8fbff 100%);
+}
+
+.card {
+  backdrop-filter: blur(8px);
+}
+
+#result .result-number {
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+#result .result-label {
+  font-size: 1rem;
+  color: #6c757d;
+}
